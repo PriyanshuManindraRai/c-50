@@ -1,0 +1,26 @@
+h1 {
+    color: brown;
+}
+
+
+.header{
+    background-color: yellow;
+    display: flex;
+    justify-content:space-around;
+}
+.grid{
+     display: flex;
+    justify-content:space-between;
+    flex-wrap:wrap ;
+}
+.footer{
+display: flex;
+justify-content: end;
+
+}
+.item{
+background-color: blueviolet;
+justify-content:space-between;
+text-align: center;
+
+}
